@@ -4,3 +4,21 @@ h1{
 p{
     color:blueviolet;
 }
+#texto1{
+    color:rgb(255,20,147);
+}
+
+#texto2 {
+color: rgb(255,182,193);
+
+}
+#texto3{
+    color: rgb(10,20,30);
+} 
+.destaque{
+    color: rgb(255,0,255);
+    font-size: 35;
+    font-style: italic;
+}
+    
+   
