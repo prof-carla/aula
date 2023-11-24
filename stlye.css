@@ -1,19 +1,19 @@
 h1{
-    color:blue;
+    color:black;
 }
 p{
-    color:blueviolet;
+    color:black;
 }
 #texto1{
-    color:rgb(255,20,147);
+    color:black;
 }
 
 #texto2 {
-color: rgb(255,182,193);
+color: black;
 
 }
 #texto3{
-    color: rgb(10,20,30);
+    color: black;
 } 
 .destaque{
     color: rgb(255,0,255);
